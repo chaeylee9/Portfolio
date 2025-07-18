@@ -3,7 +3,7 @@
 - 이용채
 - Email: yong03111@naver.com
 - 경희대학교 주거환경학과 / 지리학과 학사 (2019.03 ~ 2023.08 )
-- 경희대학교 기후사회과학융합학과 지리학전공 석사 수료 (2023.09 ~ 2025.08)
+- 경희대학교 기후사회과학융합학과 지리학전공 석사 수료(예정) (2023.09 ~ 2025.08)
 
 <br>
 
@@ -49,7 +49,7 @@
 <br>
 
 #### Seong-yun Hong, Yeorim Kim, and **Yongchae Lee**. "Ethnic segregation on linguistic landscapes" Environment and Planning B: Urban Analytics and City Science 50.7 (2023): 1916-1931.
-| 
+| 거리 수준 이미지를 활용해 언어경관의 관점에서 민족 집단 간의 분리 정도를 분석한 연구
 
 <br>
 
