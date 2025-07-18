@@ -8,7 +8,7 @@
 <br>
 
 
-## ⬜ Certificates
+## 📄 Certificates
 - 교통기사
 - SQLD
 - 컴퓨터활용능력1급
@@ -18,14 +18,14 @@
 
 <br>
 
-## ⬜ Skills
+## 💻 Skills
 - Microsoft Office | Word, Excel, Powerpoint
 - 프로그래밍 언어 | R, Python, SQL
 - 공간분석 및 통계 도구 | ArcGIS, QGIS, GeoDA
 
 <br>
 
-## ⬜ Research
+## 📜 Research
 
 [Reseach Link](https://github.com/chaeylee9/Research)
 #### *이용채*. "GWZINBR의 적용: 서울시 불법주정차를 사례로" 일반대학원 총학생회 공동학술 세미나 (2024).
@@ -59,7 +59,7 @@
 <br>
 
 
-## ⬜ Personal projects and training
+## 📖 Personal projects and training
 
 [Link](https://github.com/chaeylee9/SKN-monthly-project1-team2)
 ### 자동차 등록 현황 분석 및 FAQ 제공 페이지 구현 (2025)
@@ -101,7 +101,7 @@
 
 <br>
 
-## ⬜ Courses
+## 📚 Courses
 
 [Courses Link](https://github.com/chaeylee9/Courses)
 - 시공간정보의이해
