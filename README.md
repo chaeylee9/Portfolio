@@ -70,7 +70,8 @@
 
 <br>
 
-[Projects Link](https://github.com/chaeylee9/Projects)
+
+[Link](https://github.com/chaeylee9/Network)
 ### 도로 속성 기반 클러스터링 (2024)
 | OSM 도로망과 속성을 기반으로 그래프를 생성하고, 군집분석을 통해 도로를 분류한 프로젝트
 
@@ -78,6 +79,7 @@
 
 <br>
 
+[Projects Link](https://github.com/chaeylee9/Projects)
 ### Senseless Crime Modeling (2023)
 | Anylogic과 OSM 기반의 무차별 범죄 상황 시뮬레이션 제작
 
